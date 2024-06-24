@@ -108,10 +108,10 @@ contract HamPepeTraits {
 
         special.map[42] = "Cigarette";
         special.map[43] = "Vape";
-        special.map[42] = "Pipe";
-        special.map[42] = "Puke";
-        special.map[42] = "Bubble";
-        special.map[42] = "tongue";
+        special.map[44] = "Pipe";
+        special.map[45] = "Puke";
+        special.map[46] = "Bubble";
+        special.map[47] = "Cigar";
     }
     }
 
